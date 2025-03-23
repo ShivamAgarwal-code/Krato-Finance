@@ -1,4 +1,6 @@
 // Generated with util/create-component.js
+"use client";
+
 import React from 'react';
 import Backdrop from './Backdrop';
 import { BackdropProps } from './Backdrop.types';
