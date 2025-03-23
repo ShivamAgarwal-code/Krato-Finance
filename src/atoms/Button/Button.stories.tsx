@@ -1,4 +1,5 @@
 // Generated with util/create-component.js
+"use client";
 import React from 'react';
 import Button from './Button';
 import { ButtonProps } from './Button.types';
