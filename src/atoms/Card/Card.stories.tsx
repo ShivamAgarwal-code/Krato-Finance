@@ -1,9 +1,11 @@
 // Generated with util/create-component.js
+"use client";
 import React from 'react';
 import Card from './Card';
 import { CardProps } from './Card.types';
 import { ComponentMeta, Story } from '@storybook/react';
 import { Text } from '../Text';
+import React from "react";
 
 export default {
 	title: 'atoms/Card',
